@@ -3,4 +3,4 @@
 - mhw1.html
 - mhw1.css
 - mhw1.pptx
-- -immagini per la pagina web
+- immagini per la pagina web
